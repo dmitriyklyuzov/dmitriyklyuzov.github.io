@@ -1,0 +1,11 @@
+* {
+  border-radius: 0 !important;
+}
+
+.navbar .navbar-brand, .navbar .navbar-nav li a {
+    color: white;
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color:transparent;
+}
