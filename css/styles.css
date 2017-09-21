@@ -9,3 +9,11 @@
 .btn-default{
 	transition: all .3s ease-in-out;
 }
+
+.img-logo{
+	height:40px;
+	padding-right:20px;
+}
+.padding-bottom-30px{
+	padding-bottom: 30px;
+}
