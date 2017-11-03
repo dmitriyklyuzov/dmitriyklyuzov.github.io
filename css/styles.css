@@ -26,3 +26,10 @@
 	color: #fff;
 	text-decoration: underline;
 }
+
+@media (min-width: 768px) {
+	/*Overwrites default 200px*/
+ 	header .container {
+    padding-top: 150px;
+  }
+}
