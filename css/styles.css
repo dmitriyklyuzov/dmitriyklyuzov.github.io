@@ -17,3 +17,12 @@
 .padding-bottom-30px{
 	padding-bottom: 30px;
 }
+
+.text-transform-none{
+	text-transform: none;
+}
+
+.a-white, .a-white:hover{
+	color: #fff;
+	text-decoration: underline;
+}
